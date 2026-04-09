@@ -35,7 +35,12 @@ CVV: 123
 ### Expected results
 
 1. -
-2. Error message is diplayed according to the design.
+2. Payment is not processed. Error message is diplayed according to the design.
+
+Data Integrity:
+
+- Order should not be created
+- No transaction should be initiated
 
 ### Actual results
 
