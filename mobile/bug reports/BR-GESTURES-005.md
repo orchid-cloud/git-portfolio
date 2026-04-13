@@ -18,12 +18,12 @@ User is logged in, Carousel component is present on the home feed.
 
 **Expected results**
 
-1. -
+1. --
 2. Home feed is scrolled down with no change to the Featured Items carousel component.
 
 **Actual results**
 
-1. -
+1. --
 2. The carousel component is scrolled horizontally. Home feed is not scrolled down.
 
 **Comments**
