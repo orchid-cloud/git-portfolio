@@ -1,13 +1,16 @@
 **Test Case ID**: TC-LOGIN-001
+
 **Title**: Verify login with valid credentials
+
 **Summary**: Existing User should be able to login with valid credentials
+
 **Priority**: High
 
 ### Environment
 
-Application: Staging build
-Browser: Chrome
-OS: Windows 11
+- Application: Staging build
+- Browser: Chrome
+- OS: Windows 11
 
 ### Test Type
 
@@ -27,8 +30,8 @@ User is registered.
 ### Expected results
 
 1. Login page is displayed
-2. -
-3. -
+2. --
+3. --
 4. User is redirected to the Personal Profile page.
 
 ### Actual results
@@ -38,8 +41,9 @@ _To be filled after testing_
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 

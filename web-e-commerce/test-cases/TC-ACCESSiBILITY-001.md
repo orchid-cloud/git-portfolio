@@ -8,8 +8,8 @@
 
 ### Environment
 
-Production web app, v_2.4.1
-Browsers: Chrome, Firefox, Opera
+- Production web app, v_2.4.1
+- Browsers: Chrome, Firefox, Opera
 
 ### Test Type
 
@@ -38,8 +38,8 @@ _To be filled after testing_
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 

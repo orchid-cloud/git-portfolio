@@ -1,13 +1,16 @@
 **Test Case ID**: TC-PAYMENTS-001
+
 **Title**: Validate error handling for invalid credit card number during checkout
+
 **Summary**: Verify that the system rejects invalid credit card numbers and displays an appropriate error message
+
 **Priority**: High
 
 ### Environment
 
-Application: Staging build
-Browser: Chrome
-OS: Windows 11
+- Application: Staging build
+- Browser: Chrome
+- OS: Windows 11
 
 ### Test Type
 
@@ -34,7 +37,7 @@ CVV: 123
 
 ### Expected results
 
-1. -
+1. --
 2. Payment is not processed. Error message is diplayed according to the design.
 
 Data Integrity:
@@ -49,8 +52,9 @@ _To be filled after testing_
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 

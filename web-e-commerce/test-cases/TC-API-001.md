@@ -1,12 +1,15 @@
 **Test Case ID**: TC-API-001
+
 **Title**: Validate that the Random Activity API returns a successful response with all required fields
+
 **Summary**: Verify that the /random endpoint returns a valid activity object with correct structure, data types, and HTTP status
+
 **Priority**: High
 
 ### Environment
 
-Postman Version 11.76.1
-Postman Desktop Platform Version: 11.76.0 (11.76.0)
+- Postman Version 11.76.1
+- Postman Desktop Platform Version: 11.76.0 (11.76.0)
 
 ### Test Type
 
@@ -19,12 +22,12 @@ Functional testing.
 
 ### Request Details
 
-Method: GET
-Base URL: https://bored-api.appbrewery.com
-Endpoint: /random
-Full URL: https://bored-api.appbrewery.com/random
-Headers: {}
-Request Body: None
+Method: GET<br/>
+Base URL: https://bored-api.appbrewery.com<br/>
+Endpoint: /random<br/>
+Full URL: https://bored-api.appbrewery.com/random<br/>
+Headers: {}<br/>
+Request Body: None<br/>
 
 ### Expected results
 
@@ -118,8 +121,9 @@ _To be filled after testing_
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 

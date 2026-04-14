@@ -1,6 +1,9 @@
 **Test Case ID**: TC-API-002
+
 **Title**: Validate that the API returns only specific activities when filtered by type
+
 **Summary**: To verify that the /filter endpoint correctly filters results based on the type=education query parameter
+
 **Priority**: High
 
 ### Environment
@@ -20,12 +23,12 @@ Functional testing.
 
 ### Request Details
 
-Method: GET
-Base URL: https://bored-api.appbrewery.com
-Endpoint: /filter
-Query params: type=education
-Full URL: https://bored-api.appbrewery.com/filter?type=education
-Headers: {}
+Method: GET<br/>
+Base URL: https://bored-api.appbrewery.com<br/>
+Endpoint: /filter<br/>
+Query params: type=education<br/>
+Full URL: https://bored-api.appbrewery.com/filter?type=education<br/>
+Headers: {}<br/>
 Request Body: None
 
 ### Expected results
@@ -104,8 +107,9 @@ _To be filled after testing_
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 

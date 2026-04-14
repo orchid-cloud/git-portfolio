@@ -1,14 +1,18 @@
 **Test Case ID**: TC-CY-REG-001
+
 **Title**: Verify registration with valid credentials
+
 **Summary**: New User should be able to register with valid credentials
+
 **Priority**: High
+
 **Automation Framework**: Cypress
 
 ### Environment
 
-Application: Staging build
-Browser: Chrome
-OS: Windows 11
+- Application: Staging build
+- Browser: Chrome
+- OS: Windows 11
 
 ### Test Type
 
@@ -48,8 +52,9 @@ describe('Registration Test Case', () => {
 ### Status
 
 _To be filled after testing_
-_Pass - for a passed test_
-_Fail - for a failed test_
+
+- _Pass - for a passed test_
+- _Fail - for a failed test_
 
 ### Comments
 
