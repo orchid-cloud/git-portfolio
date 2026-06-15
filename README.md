@@ -10,21 +10,26 @@ The portfolio includes real-world examples of:
 - Test case design
 - Test planning and strategy
 - Exploratory testing
-- Basic automation using Cypress
+- Basic automation using Cypress and Playwright
 
 ## Repository Structure
 
 ### `cypress/e2e`
 
-Contains automated tests written in Cypress.
+Contains automated tests written in Cypress and JavaScript.
 
 - `registration.cy.js` — example end-to-end test for user registration
 
-#### How to run tests
+### `playwright`
 
-```bash
-npx cypress open
-```
+Contains sample automated tests written in Playwright and TypeScript.
+
+Examples include:
+
+- Smoke tests
+- Search and filtering validation
+- UI element verification
+- Responsive/mobile testing
 
 ### `web-e-commerce`
 
@@ -61,5 +66,5 @@ Contains supporting files (screenshots).
 - Mobile testing (network, gestures, permissions)
 - Accessibility testing (keyboard navigation)
 - Exploratory testing
-- Basic test automation (Cypress)
+- Test automation using Cypress (JavaScript) and Playwright (TypeScript)
 - QA documentation (Test Plan, Strategy)
