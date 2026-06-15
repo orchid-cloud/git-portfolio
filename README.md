@@ -10,7 +10,7 @@ The portfolio includes real-world examples of:
 - Test case design
 - Test planning and strategy
 - Exploratory testing
-- Basic automation using Cypress and Playwright
+- Test automation using Cypress and Playwright
 
 ## Repository Structure
 
@@ -18,7 +18,10 @@ The portfolio includes real-world examples of:
 
 Contains automated tests written in Cypress and JavaScript.
 
-- `registration.cy.js` — example end-to-end test for user registration
+Examples include:
+
+- End-to-end test for user registration
+- Product search and results validation
 
 ### `playwright`
 
